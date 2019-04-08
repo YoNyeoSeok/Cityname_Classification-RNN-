@@ -1,1 +1,1 @@
-# Cityname_Classification-RNN-
+# Cityname_Classification_RNN
